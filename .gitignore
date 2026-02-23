@@ -1,5 +1,6 @@
 # Secrets that should not be commited 
 credentials.json
+token.json
 .env
 
 # Byte-compiled / optimized / DLL files
